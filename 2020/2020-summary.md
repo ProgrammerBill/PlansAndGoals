@@ -49,8 +49,8 @@ changelog:
 
 ### 5.1.2 技术文档
 
-- [Git的奇技淫巧]()
-- [Vim 从入门到精通]()
+- [Git的奇技淫巧](https://github.com/ProgrammerBill/PlansAndGoals/blob/main/2020/books/Git%E7%9A%84%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7.pdf)
+- [Vim 从入门到精通](https://github.com/ProgrammerBill/PlansAndGoals/blob/main/2020/books/Vim%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)
 
 ## 5.2 正在阅读
 
