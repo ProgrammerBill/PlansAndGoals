@@ -6,8 +6,8 @@ mail: cjcbill@gmail.com
 changelog:
 - ver: 1.0
   date: 2021.01.02
-  author:BillCong
-  desc: 
+  author: BillCong
+  desc: 初版 
 
 ---
 
@@ -16,14 +16,13 @@ changelog:
 ## 1.1 开源项目
 
 - [ECDICT](https://github.com/ProgrammerBill/ECDICT) 快速搭建查询英语单词的mysql数据库,基于skywind3000/ECDICT开发.
+- [Bill's Vim](https://github.com/ProgrammerBill/BillsVim) 快速配置Vim环境
 
 ## 1.2 收藏技巧
 
 ### 1.2.1 Vim
 
 - [有多少种方式可以在vim中插入递增的数字](https://blog.csdn.net/sodaslay/article/details/51098752)
-
-
 
 # 2. 阅读
 
