@@ -29,6 +29,10 @@ changelog:
 
 - [有多少种方式可以在vim中插入递增的数字](https://blog.csdn.net/sodaslay/article/details/51098752)
 
+### 1.2.2 Camera HAL
+
+- [Camera processCaptureResult结果回传源码分析](https://blog.csdn.net/sinat_22657459/article/details/92410687)
+
 # 2. 阅读
 
 ## 2.1 阅读中
