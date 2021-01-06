@@ -33,10 +33,15 @@ changelog:
 
 - [Camera processCaptureResult结果回传源码分析](https://blog.csdn.net/sinat_22657459/article/details/92410687)
 
+## 1.2.3 Python
+
+- [Python 正则表达式](https://www.runoob.com/python/python-reg-expressions.html#flags)
+
 # 2. 阅读
 
 ## 2.1 阅读中
-
+            
+- [乌合之众](https://book.douban.com/subject/1012611/)
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf) 
 
 # 3. 生活
@@ -44,6 +49,7 @@ changelog:
 ## 3.1 电影
 
 - [拆弹专家2](https://movie.douban.com/subject/30171424/) 2020.01.01
+- [沐浴之王](https://movie.douban.com/subject/34894753/) 2020.01.04
 
 # 4. 兴趣
 
