@@ -55,6 +55,9 @@ changelog:
 
 - [拆弹专家2](https://movie.douban.com/subject/30171424/) 2020.01.01
 - [沐浴之王](https://movie.douban.com/subject/34894753/) 2020.01.04
+- [一点就到家](https://movie.douban.com/subject/35069506/) 2020.01.08
+- [中国合伙人](https://movie.douban.com/subject/11529526/) 2020.01.08
+- [心灵奇旅](https://movie.douban.com/subject/24733428/) 2020.01.10
 
 # 4. 兴趣
 
