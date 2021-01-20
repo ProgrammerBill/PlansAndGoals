@@ -23,7 +23,7 @@ changelog:
 - [libyuv](https://chromium.googlesource.com/libyuv/libyuv/) 可用于软解成yuv数据
 - [evs](https://source.android.com/devices/automotive/camera-hal#ievscamerastream-hw) 车载Camear HAL
 
-## 1.2 收藏技巧
+## 1.2 收藏好文
 
 ### 1.2.1 Vim
 
@@ -33,6 +33,7 @@ changelog:
 
 - [Camera processCaptureResult结果回传源码分析](https://blog.csdn.net/sinat_22657459/article/details/92410687)
 - [输出流和剪裁](https://source.android.com/devices/camera/camera3_crop_reprocess)
+- [Camera Metadata原理](https://blog.csdn.net/u013961718/article/details/107161793/)
 
 ## 1.2.3 Python
 
@@ -43,11 +44,12 @@ changelog:
 ## 2.1 阅读中
             
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf) 
-- [知乎周刊·北上广深的年轻人](https://yuedu.baidu.com/ebook/6d4ab8c8c281e53a5802fff4?pn=1&rf=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Di7c4Rs2IeqO4vbSsE6NMzu-mbj-f_TjQMSFEhjIaHGwfc6YIUOONcrm-smPZvTld-i3npqOwFdWujw4S9mwet_%26wd%3D%26eqid%3De175f0f50000bc58000000065ff7dd72)
+- [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
 
 ## 2.2 已阅读
 
 - [乌合之众](https://book.douban.com/subject/1012611/)
+- [知乎周刊·北上广深的年轻人](https://yuedu.baidu.com/ebook/6d4ab8c8c281e53a5802fff4?pn=1&rf=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Di7c4Rs2IeqO4vbSsE6NMzu-mbj-f_TjQMSFEhjIaHGwfc6YIUOONcrm-smPZvTld-i3npqOwFdWujw4S9mwet_%26wd%3D%26eqid%3De175f0f50000bc58000000065ff7dd72)
 
 # 3. 生活
 
@@ -64,3 +66,9 @@ changelog:
 ## 4.1 钢琴曲
 
 - [水星记](songs/水星记/水星记.pdf)
+- [当你]()
+- [背对背拥抱]()
+
+## 4.2 吉他谱
+
+- [Twlight黄昏]()
