@@ -45,6 +45,7 @@ changelog:
             
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf) 
 - [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
+- [程序员修炼之道](https://book.douban.com/subject/1152111/)
 
 ## 2.2 已阅读
 
