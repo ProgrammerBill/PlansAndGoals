@@ -61,6 +61,7 @@ changelog:
 - [一点就到家](https://movie.douban.com/subject/35069506/) 2020.01.08
 - [中国合伙人](https://movie.douban.com/subject/11529526/) 2020.01.08
 - [心灵奇旅](https://movie.douban.com/subject/24733428/) 2020.01.10
+- [末日逃生](https://movie.douban.com/subject/30220799/) 2020.01.22
 
 # 4. 兴趣
 
