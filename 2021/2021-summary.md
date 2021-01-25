@@ -34,6 +34,7 @@ changelog:
 - [Camera processCaptureResult结果回传源码分析](https://blog.csdn.net/sinat_22657459/article/details/92410687)
 - [输出流和剪裁](https://source.android.com/devices/camera/camera3_crop_reprocess)
 - [Camera Metadata原理](https://blog.csdn.net/u013961718/article/details/107161793/)
+- [HIDL最全编译流程](https://blog.csdn.net/u013357557/article/details/84561652)
 
 ## 1.2.3 Python
 
