@@ -34,11 +34,17 @@ changelog:
 - [Camera processCaptureResult结果回传源码分析](https://blog.csdn.net/sinat_22657459/article/details/92410687)
 - [输出流和剪裁](https://source.android.com/devices/camera/camera3_crop_reprocess)
 - [Camera Metadata原理](https://blog.csdn.net/u013961718/article/details/107161793/)
-- [HIDL最全编译流程](https://blog.csdn.net/u013357557/article/details/84561652)
 
 ## 1.2.3 Python
 
 - [Python 正则表达式](https://www.runoob.com/python/python-reg-expressions.html#flags)
+
+### 1.2.4 Android
+
+- [HIDL最全编译流程](https://blog.csdn.net/u013357557/article/details/84561652)
+- [AndroidP/Q编译系统](https://www.it610.com/article/1292218615122173952.htm)
+
+
 
 # 2. 阅读
 
@@ -46,7 +52,7 @@ changelog:
             
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf) 
 - [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
-- [程序员修炼之道](https://book.douban.com/subject/1152111/)
+- [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
 
 ## 2.2 已阅读
 
@@ -71,6 +77,7 @@ changelog:
 - [水星记](songs/水星记/水星记.pdf)
 - [当你]()
 - [背对背拥抱]()
+- [画]()
 
 ## 4.2 吉他谱
 
