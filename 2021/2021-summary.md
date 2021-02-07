@@ -38,12 +38,17 @@ changelog:
 ## 1.2.3 Python
 
 - [Python 正则表达式](https://www.runoob.com/python/python-reg-expressions.html#flags)
+- [采用update-alternatives 切换python版本](https://blog.csdn.net/jc15988821760/article/details/95166733)
 
 ### 1.2.4 Android
 
 - [HIDL最全编译流程](https://blog.csdn.net/u013357557/article/details/84561652)
 - [AndroidP/Q编译系统](https://www.it610.com/article/1292218615122173952.htm)
 
+
+### 1.2.5 C++
+
+- [C++ 函数返回局部变量的std::move()问题?](https://www.zhihu.com/question/57048704/answer/151446405)
 
 
 # 2. 阅读
