@@ -50,6 +50,9 @@ changelog:
 
 - [C++ 函数返回局部变量的std::move()问题?](https://www.zhihu.com/question/57048704/answer/151446405)
 
+### 1.2.6 Linux
+
+- [Mount Windows Shares For Everyone on Ubuntu](https://websiteforstudents.com/mount-windows-shares-everyone-ubuntu-17-04-17-10/)
 
 # 2. 阅读
 
