@@ -77,6 +77,8 @@ changelog:
 - [中国合伙人](https://movie.douban.com/subject/11529526/) 2020.01.08
 - [心灵奇旅](https://movie.douban.com/subject/24733428/) 2020.01.10
 - [末日逃生](https://movie.douban.com/subject/30220799/) 2020.01.22
+- [唐人街探案3](https://movie.douban.com/subject/27619748/) 2020.02.13
+- [你好，李焕英](https://movie.douban.com/subject/34841067/) 2020.02.10
 
 # 4. 兴趣
 
@@ -90,3 +92,4 @@ changelog:
 ## 4.2 吉他谱
 
 - [Twlight黄昏]()
+- [普通朋友]()
