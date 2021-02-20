@@ -40,6 +40,9 @@ changelog:
 - [Python 正则表达式](https://www.runoob.com/python/python-reg-expressions.html#flags)
 - [采用update-alternatives 切换python版本](https://blog.csdn.net/jc15988821760/article/details/95166733)
 - [Pickle-Python object serialization](https://docs.python.org/3/library/pickle.html)
+- [shelve — Python object persistence](https://docs.python.org/3/library/shelve.html)
+- [深入理解 Python 中的上下文管理器](https://www.cnblogs.com/wongbingming/p/10519553.html)
+
 
 ### 1.2.4 Android
 
