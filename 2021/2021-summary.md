@@ -66,6 +66,8 @@ changelog:
 - [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
 - [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
 - [Python核心编程第二版](books/Python核心编程2.pdf)
+- [Google C++ Style Guide](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
+
 
 ## 2.2 已阅读
 
@@ -98,3 +100,4 @@ changelog:
 
 - [Twlight黄昏]()
 - [普通朋友]()
+- [对面的女孩看过来]()
