@@ -65,9 +65,9 @@ changelog:
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf) 
 - [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
 - [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
-- [Python核心编程第二版](books/Python核心编程2.pdf)
+- [Python核心编程第二版](books/Python_2.pdf)
 - [Google C++ Style Guide](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
-
+- [Effective C++](books/Cshapshap.pdf)
 
 ## 2.2 已阅读
 
