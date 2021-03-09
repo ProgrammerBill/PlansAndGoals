@@ -67,7 +67,7 @@ changelog:
 - [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
 - [Python核心编程第二版](books/Python_2.pdf)
 - [Google C++ Style Guide](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
-- [Effective C++](books/Cshapshap.pdf)
+- [Effective C++](books/Effective_Cshapshap.pdf)
 
 ## 2.2 已阅读
 
