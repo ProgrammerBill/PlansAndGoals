@@ -34,6 +34,7 @@ changelog:
 - [Camera processCaptureResult结果回传源码分析](https://blog.csdn.net/sinat_22657459/article/details/92410687)
 - [输出流和剪裁](https://source.android.com/devices/camera/camera3_crop_reprocess)
 - [Camera Metadata原理](https://blog.csdn.net/u013961718/article/details/107161793/)
+- [camera驱动部分视频数据流分析(uvc)](https://blog.csdn.net/panp85/article/details/51087693)
 
 ## 1.2.3 Python
 
@@ -66,6 +67,7 @@ changelog:
 - [Effective C++](books/Effective_Cshapshap.pdf)
 - [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf)
+- [Linux Device Drivers]()
 
 ## 2.2 已阅读
 
