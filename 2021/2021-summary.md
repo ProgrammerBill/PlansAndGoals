@@ -63,7 +63,6 @@ changelog:
 
 ## 2.1 阅读中
 
-- [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
 - [Effective C++](books/Effective_Cshapshap.pdf)
 - [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf)
@@ -75,6 +74,7 @@ changelog:
 - [知乎周刊·北上广深的年轻人](https://yuedu.baidu.com/ebook/6d4ab8c8c281e53a5802fff4?pn=1&rf=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3Di7c4Rs2IeqO4vbSsE6NMzu-mbj-f_TjQMSFEhjIaHGwfc6YIUOONcrm-smPZvTld-i3npqOwFdWujw4S9mwet_%26wd%3D%26eqid%3De175f0f50000bc58000000065ff7dd72)
 - [Python核心编程第二版](books/Python_2.pdf)
 - [Google C++ Style Guide](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
+- [薛兆丰经济学讲义](https://book.douban.com/subject/30242320/)
 
 # 3. 生活
 
