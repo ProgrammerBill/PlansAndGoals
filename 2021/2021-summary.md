@@ -8,7 +8,6 @@ changelog:
   date: 2021.01.02
   author: BillCong
   desc: 初版
-
 ---
 
 # 1. 技术
@@ -63,7 +62,8 @@ changelog:
 
 ## 2.1 阅读中
 
-- [明朝哪些事儿]()
+- [The Go Programming Language](https://book.douban.com/subject/26337545/)
+- [明朝哪些事儿](https://book.douban.com/subject/3674537/)
 - [Effective C++](books/Effective_Cshapshap.pdf)
 - [程序员修炼之道 The Pragmatic Programmer](https://book.douban.com/subject/1152111/)
 - [Learning Python](https://github.com/MrAlex6204/Books/blob/master/Learning%20Python%2C%205th%20Edition.pdf)
@@ -89,7 +89,8 @@ changelog:
 - [末日逃生](https://movie.douban.com/subject/30220799/) 2021.01.22
 - [唐人街探案3](https://movie.douban.com/subject/27619748/) 2021.02.13
 - [你好，李焕英](https://movie.douban.com/subject/34841067/) 2021.02.10
-- [人潮汹涌]() 2021.05.08
+- [人潮汹涌](https://movie.douban.com/subject/34880302/) 2021.05.08
+- [扎克·施奈德版正义联盟](https://movie.douban.com/subject/35076714/) 2021.05.15
 
 # 4. 兴趣
 
@@ -105,3 +106,6 @@ changelog:
 - [Twlight黄昏]()
 - [普通朋友]()
 - [对面的女孩看过来]()
+- [蓝莲花]()
+- [外面的世界]()
+- [她来听我的演唱会]()
