@@ -58,6 +58,10 @@ changelog:
 
 - [Mount Windows Shares For Everyone on Ubuntu](https://websiteforstudents.com/mount-windows-shares-everyone-ubuntu-17-04-17-10/)
 
+### 1.2.7 Opencv
+
+- [python opencv 所有知识点笔记汇总](https://blog.csdn.net/Sun_Raiser/article/details/107303668)
+
 # 2. 阅读
 
 ## 2.1 阅读中
