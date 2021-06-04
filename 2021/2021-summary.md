@@ -95,6 +95,8 @@ changelog:
 - [你好，李焕英](https://movie.douban.com/subject/34841067/) 2021.02.10
 - [人潮汹涌](https://movie.douban.com/subject/34880302/) 2021.05.08
 - [扎克·施奈德版正义联盟](https://movie.douban.com/subject/35076714/) 2021.05.15
+- [扫黑·决战](https://movie.douban.com/subject/35164328/) 2021.06.01
+- [你是凶手](https://movie.douban.com/subject/26762744/) 2021.06.03
 
 # 4. 兴趣
 
