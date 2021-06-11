@@ -53,6 +53,7 @@ changelog:
 ### 1.2.5 C++
 
 - [C++ 函数返回局部变量的std::move()问题?](https://www.zhihu.com/question/57048704/answer/151446405)
+- [C++11 之 override](https://www.cnblogs.com/xinxue/p/5471708.html)
 
 ### 1.2.6 Linux
 
@@ -97,6 +98,7 @@ changelog:
 - [扎克·施奈德版正义联盟](https://movie.douban.com/subject/35076714/) 2021.05.15
 - [扫黑·决战](https://movie.douban.com/subject/35164328/) 2021.06.01
 - [你是凶手](https://movie.douban.com/subject/26762744/) 2021.06.03
+- [寂静之地2](https://movie.douban.com/subject/30206311/) 2021.06.05
 
 # 4. 兴趣
 
@@ -115,3 +117,6 @@ changelog:
 - [蓝莲花]()
 - [外面的世界]()
 - [她来听我的演唱会]()
+- [加州旅馆尾奏]()
+- [园游会]()
+- [分裂]()
