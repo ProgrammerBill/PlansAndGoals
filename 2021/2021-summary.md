@@ -16,6 +16,7 @@ changelog:
 
 - [ECDICT](https://github.com/ProgrammerBill/ECDICT) 快速搭建查询英语单词的mysql数据库,基于skywind3000/ECDICT开发.
 - [Bill's Vim](https://github.com/ProgrammerBill/BillsVim) 快速配置Vim环境
+- [NameArt](https://github.com/ProgrammerBill/NameArt) 探索图像处理生成画像,开发中
 
 ## 1.2 学习中
 
@@ -104,19 +105,19 @@ changelog:
 
 ## 4.1 钢琴曲
 
-- [水星记](songs/水星记/水星记.pdf)
-- [当你]()
-- [背对背拥抱]()
-- [画]()
+- [水星记](https://www.xuexila.com/lepu/gangqinpu/c118097.html)
+- [当你](http://www.tan8.com/yuepu-65295.html)
+- [背对背拥抱](https://www.qupu123.com/qiyue/gangqin/p71611.html)
+- [画](http://www.tan8.com/yuepu-46019.html)
 
 ## 4.2 吉他谱
 
-- [Twlight黄昏]()
-- [普通朋友]()
-- [对面的女孩看过来]()
-- [蓝莲花]()
-- [外面的世界]()
-- [她来听我的演唱会]()
-- [加州旅馆尾奏]()
-- [园游会]()
-- [分裂]()
+- [Twlight黄昏](https://www.bilibili.com/read/cv2579775)
+- [普通朋友](http://www.17jita.com/jitapu/img/1342.html?ivk_sa=1024320u)
+- [对面的女孩看过来](https://www.yinban.com/tab/sing/489.html)
+- [蓝莲花](http://www.jitaba.cn/pu/xuwei/8122.html)
+- [外面的世界](https://www.jita4.com/pu/1337.html)
+- [她来听我的演唱会](http://www.ccguitar.cn/cchtml/933470440.htm)
+- [加州旅馆尾奏](https://mp.weixin.qq.com/s/Z0Il5ow5BZMBZZjTser5yA)
+- [园游会](https://www.jita4.com/pu/5174.html)
+- [分裂](https://www.jita4.com/pu/7072.html)
